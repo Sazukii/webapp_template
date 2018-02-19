@@ -1,0 +1,19 @@
+{
+  "name": "webapp_template",
+  "version": "1.0.0",
+  "description": "Webtech opdracht Grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sazukii/webapp_template.git"
+  },
+  "author": "Ikke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sazukii/webapp_template/issues"
+  },
+  "homepage": "https://github.com/Sazukii/webapp_template#readme"
+}
